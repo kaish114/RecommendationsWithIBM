@@ -5,6 +5,14 @@
 <p>In this project we'll analyze the interactions that users have with articles on the IBM Watson Studio platform, 
  and make recommendations to them about new articles they'll like.</p>
  
+### Motivation
+For this project I will be looking at the interactions that users have with articles on the IBM Watson Studio platform. Below It can be seen an example of what the dashboard could look like displaying articles on the IBM Platform.
+
+<img src="img/Recommendations_with_IBM.png" width="80%" alt="Recommendations with IBM">
+
+The above dashboard is just showing the newest articles. It could imagine having a recommendation board available here that shows the articles that are most pertinent to a specific user.
+
+In order to determine which articles to show to each user, It will be performing a study of the data available on the [IBM Watson Studio platform](https://dataplatform.cloud.ibm.com/).
 ### Libraries
 <ul>
   <li>python 3.7 and above</li>
